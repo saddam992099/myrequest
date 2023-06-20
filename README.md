@@ -4,7 +4,7 @@ As of Feb 11th 2020, request is fully deprecated. No new changes are expected to
 
 We have fixed Server-side Request Forgery (SSRF) issue.
 
-# Request - Simplified HTTP client
+# Request2 - Simplified HTTP client
 
 
 [![Build status](https://img.shields.io/travis/request/request/master.svg?style=flat-square)](https://travis-ci.org/request/request)
