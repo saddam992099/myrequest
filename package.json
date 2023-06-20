@@ -1,5 +1,5 @@
 {
-  "name": "request2",
+  "name": "myrequest",
   "description": "Simplified HTTP request client.",
   "keywords": [
     "http",
@@ -11,7 +11,7 @@
   "author": "Saddam <saddam.shaikh@venost.in>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/saddam992099/request2.git"
+    "url": "https://github.com/saddam992099/myrequest.git"
   },
   "bugs": {
     "url": "https://github.com/saddam992099/issues"
