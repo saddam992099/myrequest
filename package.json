@@ -1,5 +1,5 @@
 {
-  "name": "myrequest",
+  "name": "@business_simplika/request",
   "description": "Simplified HTTP request client.",
   "keywords": [
     "http",
